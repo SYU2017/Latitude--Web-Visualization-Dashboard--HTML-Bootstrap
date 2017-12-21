@@ -1,0 +1,13 @@
+.plot{color: green;
+  font-size: 30px;
+}
+
+.latitude {
+  color: white;
+  font-family: verdana;
+  font-size: 35px;
+  background-color: green;
+  border: 1px solid green;
+    padding: 5px;
+}
+
