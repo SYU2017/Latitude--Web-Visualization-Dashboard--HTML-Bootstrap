@@ -25,6 +25,10 @@ The website must consist of 7 pages total, including:
 To Run HTML:
        HTML, style.css, output_data/fig, output_data/cities.csv, assets/css, assets/js
 
+GitHub Pages is designed to host your personal, organization, or project pages from a GitHub repository.
+
+       Your site is published at https://syu2017.github.io/Week12-HTML-Bootstrap/
+
 Help:  How to make bootstrap dropdown to work: (from https://stackoverflow.com/)
        "the simplest way to do this ist just copy and past the CDN of bootstrap link that can be found in https://www.bootstrapcdn.com/ and the Jquery CDN Scripts that can be found here https://code.jquery.com/ and after you copy the links, the bootstrap links paste on the head of HTML and the Jquery Script paste in body of HTML like the example below:"
 
@@ -50,3 +54,6 @@ Help:  How to make bootstrap dropdown to work: (from https://stackoverflow.com/)
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js">      </script>    
       </body>
     </html>
+
+
+
