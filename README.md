@@ -35,6 +35,7 @@ Lattitude - Latitude Analysis Dashboard with Attitude
        
        
        ![picture](web.png)
+       
 
 4. Help:  How to make bootstrap dropdown to work: (from https://stackoverflow.com/)
        
