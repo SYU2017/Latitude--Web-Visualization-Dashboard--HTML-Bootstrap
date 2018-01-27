@@ -2,6 +2,9 @@ Unit 12 | Assignment - Web Visualization Dashboard (Lattitude)--https://syu2017.
 
 Lattitude - Latitude Analysis Dashboard with Attitude
 
+
+![picture](web.png)
+
 1. The website must consist of 7 pages total, including:
 
    <1> landing.html:   A landing page containing:
@@ -25,10 +28,7 @@ Lattitude - Latitude Analysis Dashboard with Attitude
       <4> data.html:  A "Data" page that:
           Displays a responsive table containing the data used in the visualizations.
           The table must be a bootstrap table component.
-          
-          ![picture](web.png)
-          
-          
+                    
 2. To Run HTML:
 
        HTML, style.css, output_data/fig, output_data/cities.csv, assets/css, assets/js
