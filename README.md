@@ -1,4 +1,4 @@
-Unit 12 | Assignment - Web Visualization Dashboard (Lattitude)
+Unit 12 | Assignment - Web Visualization Dashboard (Lattitude)--https://syu2017.github.io/Week12-HTML-Bootstrap/
 Lattitude - Latitude Analysis Dashboard with Attitude
 
 1. The website must consist of 7 pages total, including:
@@ -32,6 +32,9 @@ Lattitude - Latitude Analysis Dashboard with Attitude
 3. GitHub Pages is designed to host your personal, organization, or project pages from a GitHub repository.
 
        Your site is published at https://syu2017.github.io/Week12-HTML-Bootstrap/
+       
+       
+       ![picture](web.png)
 
 4. Help:  How to make bootstrap dropdown to work: (from https://stackoverflow.com/)
        
