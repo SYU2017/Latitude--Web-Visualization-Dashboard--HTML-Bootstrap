@@ -1,5 +1,5 @@
-# Unit 12 | Assignment - Web Visualization Dashboard (Lattitude)--
-# Data Visualization https://syu2017.github.io/Week12-Web-Visualization-Dashboard-Lattitude--HTML-Bootstrap/
+# Web Visualization Dashboard (Lattitude-WeatherPy)
+# Data Visualization:  https://syu2017.github.io/Weatherpy--Web-Visualization-Dashboard--HTML-Bootstrap/
 
 #  Lattitude - Latitude Analysis Dashboard with Attitude
 
